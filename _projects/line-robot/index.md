@@ -15,6 +15,6 @@ main-image: /asahi1.jpeg
 * Built an autonomous differential-drive robot to complete a 40-foot white-line track.
 * Designed lightweight chassis with laser-cut & 3D printed parts.
 * Tuned a PID control algorithm with nested current + position loops for smooth, fast lap performance.
-{% include image-gallery.html images="robotCAD.png, robotiso.png" height="400" %}
+{% include image-gallery.html images="robotCAD.png, robotiso.jpeg" height="400" %}
 
 <br>
