@@ -8,7 +8,7 @@ skills:
 - Embedded Systems
 - Rapid Prototyping
 - Raspberry Pi
-main-image: /robotside.png
+main-image: /robotside.jpeg
 ---
 * Built an autonomous differential-drive robot to complete a 40-foot white-line track.
 * Designed lightweight chassis with laser-cut & 3D printed parts.
