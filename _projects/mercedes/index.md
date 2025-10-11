@@ -12,14 +12,9 @@ skills:
 main-image: /actros.jpeg
 ---
 ### Jul 2024 – Oct 2024
+* Optimized ergonomics and manufacturability of the maintanace flap opening arc via kinematic simulation.  
+* Reduced stress concentrations by 40% through FEA-driven redesign of load-bearing stamped sheet-metal parts.   
+* Achieved 21% cost reduction and improved operator ergonomics with injection-molded part replacements.  
 
-- Optimized ergonomics and manufacturability of user-interacting components via kinematic simulation.  
-- Reduced stress concentrations by **40%** through FEA-driven redesign of sheet-metal parts.  
-- Developed a low-cost die-cast flap system to support next-gen electric truck charging.  
-- Coordinated simulation, prototyping, and manufacturing workflows with detailed GD&T drawings.  
-- Achieved **21% cost reduction** and improved operator ergonomics with injection-molded part replacements.  
-
-{% include image-gallery.html images="metruck.png" height="400" %}
-
-{% include image-gallery.html images="flap.png" height="400" %}
+{% include image-gallery.html images="metruck.png,flap.png" height="400" %}
 <br>
