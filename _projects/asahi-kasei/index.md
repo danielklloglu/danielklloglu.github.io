@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Engineering Intern – Asahi Kasei Bioprocess America (AKBA)
-description:  🧪 Built AKBA’s first benchtop dilution system and standardized product lines
+title: Engineering Intern – Asahi Kasei Bioprocess America
+description:   Built AKBA’s first benchtop dilution system and standardized a product line
 skills: 
 - SolidWorks
 - P&ID
