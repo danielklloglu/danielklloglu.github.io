@@ -9,5 +9,5 @@ skills:
 - Finite Elements Analysis
 - Topology Optimization
 
-main-image: /Formula-Projects.png
+main-image: /Formula Projects.png
 ---
