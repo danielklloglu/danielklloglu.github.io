@@ -53,6 +53,8 @@ skills:
     - KiCad
   - category: Prototyping
     tools:
+    - Python
+    - C
     - CNC
     - 3D Printing
     - Laser Cutting
