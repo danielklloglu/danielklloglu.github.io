@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Northwestern Formula Racing Projects
-description: I worked on two big projects throughout my time in Northwestern Formula Racing. I designed and manufactured a pedal box consisting of a baseplate, gas pedal, brake pedal, throttle return springs, brake over-travel switch, and throttle sensors to accommodate the change from an ICE car to an EV. I ran topology optimization on the pedals to minimize weight while maintaining rigidity. I used a CNC mill and lathe to make the final part.I also designed and led the manufacturing of the rear hubs of the car. I ran calculations to determine the critical stresses that the hubs are going to take and included a bump factor. I ran FEA using the findings to minimize the weight of the hubs while keeping the factor of safety above 1.5.
+description: I was in Northwestern Formula Racing for two years where I worked in the chassis and suspension teams. My main responsibilities were the rear hubs and the pedalbox.
 skills: 
 - SolidWorks
 - DFM
@@ -9,5 +9,51 @@ skills:
 - Finite Elements Analysis
 - Topology Optimization
 
-main-image: /Formula Projects.png
+main-image: /MeNFR24.png
 ---
+
+## Rear Hubs
+I redesigned and coordinated the machining of the rear hubs, center locking nuts, and hubcaps for NFR 25. The hubs rigidly connect to the wheel assembly and allow the wheels to rotate with minimal friction, in conjunction with the uprights. They also serve as a mounting point for brake rotors via the use of float pins; especially, the rear hubs also transmit the driving force from the engine through the half-shafts into the wheels. The center locking nut constrains the axial motion of the wheel assembly within the upright.
+
+### Design Goals:
+* Accommodate transmitted forces during cornering, braking, and acceleration
+* Reduce shear
+* Optimize hub dimensions to minimize overall weight
+
+I ran calculations to determine the critical stresses that the hubs are going to take and included a bump factor. Using these calculations, I ran FEA to minimize the weight of the hubs while keeping the factor of safety above 1.5.
+
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <img src="HUBS.png" alt="Image 1" style="width: auto; height: 300px;">
+  <img src="hubfea1.png" alt="Image 2" style="width: auto; height: 300px;">
+</div>
+
+After the design was complete, I created an engineering drawing and coordinated with a CNC machine shop to get the parts made and with another supplier to get the aluminum coated for regulations.
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <img src="HubsDrawing.png" alt="Image 1" style="width: auto; height: 250px;">
+  <img src="newhubs.png" alt="Image 2" style="width: auto; height: 250px;">
+  <img src="BrakeRotor4.jpg" alt="Image 2" style="width: auto; height: 250px;">
+</div>
+
+Ultimately, achieved 6% weight reduction and 17% cost savings while maintaining a factor of safety greater than 1.5.
+
+## Pedalbox
+I designed and manufactured a pedal box consisting of a baseplate, gas pedal, brake pedal, throttle return springs, brake over-travel switch, and throttle sensors to accommodate the change from an ICE car to an EV. The pedal box is responsible for the car's braking and acceleration. It is adjustable for different heights through pedal rails. Also, the pedal box houses the killswitch, which turns off the car if the brakes fail and the pressure in the master cylinders drops.
+
+### Design Goals:
+* Accommodate transmitted forces during cornering, braking, and acceleration
+* Reduce shear
+* Optimize hub dimensions to minimize overall weight
+
+I ran calculations to determine the critical stresses that the hubs are going to take and included a bump factor. Using these calculations, I ran FEA to minimize the weight of the hubs while keeping the factor of safety above 1.5.
+
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <img src="HUBS.png" alt="Image 1" style="width: auto; height: 300px;">
+  <img src="hubfea1.png" alt="Image 2" style="width: auto; height: 300px;">
+</div>
+
+After the design was complete, I created an engineering drawing and coordinated with a CNC machine shop to get the parts made and with another supplier to get the aluminum coated for regulations.
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <img src="HubsDrawing.png" alt="Image 1" style="width: auto; height: 300px;">
+  <img src="BrakeRotor4.png" alt="Image 2" style="width: auto; height: 300px;">
+</div> 
+
