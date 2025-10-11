@@ -1,9 +1,12 @@
 ---
 layout: post
-title: project title
-description:  short description of the project
+title: Asahi Kasei Bioprocess Engineering Internship
+description:  🧪 Built AKBA’s first benchtop dilution system and standardized product lines
 skills: 
-- skill 1
-- skill 2
-main-image:
+- SolidWorks
+- P&ID
+- Qualification Testing
+- Prototyping
+- GD&T
+main-image: /asahi1.jpeg
 ---
