@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Line Following Robot
+title: Transmission Design
 description: ⚙️ Designed a three-shaft, two-stage gear transmission system for reliability, compactness, and efficiency
 skills: 
 - Gear Design
