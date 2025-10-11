@@ -9,12 +9,14 @@ skills:
 - Injection Molding
 - Sheet Metal Stamping
 - Mass Manufacturing
-main-image: /robotside.jpeg
+main-image: /actros.jpeg
 ---
-* Built an autonomous differential-drive robot to complete a 40-foot white-line track.
-* Designed lightweight chassis with laser-cut & 3D printed parts.
-* Tuned a PID control algorithm with nested current + position loops for smooth, fast lap performance.
-* Used a simple low resolution camera (OV7670) to detect robot's position on track
+Mercedes-Benz Türk A.S. | *Jul 2024 – Oct 2024*  
+- Optimized ergonomics and manufacturability of user-interacting components via kinematic simulation.  
+- Reduced stress concentrations by **40%** through FEA-driven redesign of sheet-metal parts.  
+- Developed a low-cost die-cast flap system to support next-gen electric truck charging.  
+- Coordinated simulation, prototyping, and manufacturing workflows with detailed GD&T drawings.  
+- Achieved **21% cost reduction** and improved operator ergonomics with injection-molded part replacements.  
 
-{% include image-gallery.html images="robotCAD.png, robotiso.jpeg" height="400" %}
+{% include image-gallery.html images="metruck.png" height="400" %}
 <br>
