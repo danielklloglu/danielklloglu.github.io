@@ -35,7 +35,9 @@ After the design was complete, I created an engineering drawing and coordinated 
 </div>
 
 Ultimately, achieved 6% weight reduction and 17% cost savings while maintaining a factor of safety greater than 1.5.
+
 ---
+
 ## Pedalbox
 I designed and manufactured a pedal box consisting of a baseplate, gas pedal, brake pedal, throttle return springs, brake over-travel switch, and throttle sensors to accommodate the change from an ICE car to an EV. The pedal box is responsible for the car's braking and acceleration. It is adjustable for different heights through pedal rails. Also, the pedal box houses the killswitch, which turns off the car if the brakes fail and the pressure in the master cylinders drops.
 
