@@ -14,7 +14,7 @@ name: Daniel Kıllıoğlu
 headline: 🚀 Mechanical Engineering Senior | Product Design & Mechatronics Enthusiast
 description: I’m a senior mechanical engineering student at Northwestern University with a minor in Music Technology. My passion lies at the intersection of product design, mechatronics, and human-centered engineering, where I strive to create solutions that are both functional and aesthetically impactful.
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/headshot.jpeg
+profile_image: ./assets/images/profile-image/headshot.jpg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
