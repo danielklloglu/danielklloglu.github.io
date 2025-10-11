@@ -16,5 +16,5 @@ main-image: /actros.jpeg
 * Reduced stress concentrations by 40% through FEA-driven redesign of load-bearing stamped sheet-metal parts.   
 * Achieved 21% cost reduction and improved operator ergonomics with injection-molded part replacements.  
 
-{% include image-gallery.html images="metruck.png,flap.png" height="400" %}
+{% include image-gallery.html images="metruck.png , flap.png" height="400" %}
 <br>
