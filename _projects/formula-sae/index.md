@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Northwestern Formula Racing Projects
-description: I was in Northwestern Formula Racing for two years where I worked in the chassis and suspension teams. My main responsibilities were the rear hubs and the pedalbox.
+description: 🏎️ Designed & manufactured rear hubs, pedal box, and suspension for a Formula SAE Electric Vehicle
 skills: 
 - SolidWorks
 - DFM
