@@ -22,9 +22,9 @@ main-image: /robotside.jpeg
 {% include image-gallery.html images="robotCAD.png" height="400" %}
 
 ### Control Algorithm
-- **Line Detection**: Reads reflectance sensor values to detect the white line on purple background.  
+- **Line Detection**: Camera captures images in 640x480 pixel resolution at 30 fps. Then, an algorithm detects the white line on purple background and outputs an integer to calculate error.  
 - **PID Control**: Adjusts motor speeds proportionally to the error between the robot’s position and the center of the line.  
 - **Differential Drive**: Left and right motors are independently controlled for smooth turning.
 
-{% include image-gallery.html images="robotiso.jpeg" height="400" %}
+{% include image-gallery.html images="robotiso.jpeg, cameratr2.png" height="400" %}
 <br>
