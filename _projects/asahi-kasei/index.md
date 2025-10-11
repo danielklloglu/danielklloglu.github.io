@@ -16,7 +16,4 @@ main-image: /asahi1.jpeg
 - **Standardized a pressurized-vessel product line** by aggregating critical parameters from custom projects, cutting costs and improving lead times.  
 - **Improved drawings and BOMs** by correcting tolerances, refreshing legacy callouts, and clarifying hardware specs to streamline procurement and assembly.
 
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="./Unknown.png" alt="Image 1" style="width: auto; height: 400px;">
-  <img src="./asahi2.jpeg" alt="Image 2" style="width: auto; height: 400px;">
-</div> 
+{% include image-gallery.html images="Unknown.png, asahi2.jpeg" height="400" %}
