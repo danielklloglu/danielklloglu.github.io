@@ -1,6 +1,6 @@
 ---
 layout: post
-title: R&D Intern - Mercedes-Benz Türk A.Ş
+title: Cabin R&D Intern - Mercedes-Benz Türk A.Ş
 description: 🚛 Cabin Exterior R&D, worked on maintanance flap opening mechanisms, sheet metal part optimization and ergonomics of a new-gen EV Semitruck
 skills: 
 - Siemens NX
