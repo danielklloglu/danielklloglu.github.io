@@ -17,10 +17,10 @@ main-image: /among.jpeg
 
 **Problem**  
 Design a customizable injection-molded character with attachable accessories while ensuring manufacturability and proper fit.
-
+{% include image-gallery.html images="sketch.png" height="400" %}
 **Solution**  
 Created CAD models of the body, hat, and mustache with uniform wall thickness, draft angles, fillets, and an interference-fit pin system. Used a half-pin design to lock the front and back halves together and support accessories.
-
+{% include image-gallery.html images="cad1.png, cad2.png" height="400" %}
 **Results**  
 - Functional interchangeable accessories  
 - Stable, seamless assembly  
@@ -31,7 +31,7 @@ Created CAD models of the body, hat, and mustache with uniform wall thickness, d
 
 **Problem**  
 Design molds that allow clean parting lines, easy ejection, balanced flow, and controlled shrinkage.
-
+{% include image-gallery.html images="mold1.png, runner.png, partingline.png" height="400" %}
 **Solution**  
 Selected optimal parting lines, applied draft angles and fillets, maintained uniform thickness, and designed balanced runner systems with cold slug wells. Ensured spacing from mold walls to prevent flash.
 
@@ -48,6 +48,8 @@ Accurately machine complex mold geometry with good surface finish and precise pr
 
 **Solution**  
 Created toolpaths for roughing, semi-finishing, and finishing using flat, ball, and tapered end mills. Spot drilled, drilled, and reamed holes for precision fits. Troubleshot shutoff size and hole depth issues manually.
+
+{% include image-gallery.html images="cnc.png" height="400" %}
 
 **Results**  
 - Accurate press-fit dimensions  
@@ -73,7 +75,7 @@ Iteratively adjusted pressure, temperature, and injection time for each mold pai
 
 **Problem**  
 Verify dimensional accuracy and diagnose shrinkage or mold errors.
-
+{% include image-gallery.html images="histogram.png" height="400" %}
 **Solution**  
 Measured key dimensions across 20 samples, compared to CAD specs, and analyzed deviations and trends.
 
@@ -87,7 +89,7 @@ Measured key dimensions across 20 samples, compared to CAD specs, and analyzed d
 
 **Problem**  
 Produce a fully functional, manufacturable, and customizable plastic product with minimal defects.
-
+{% include image-gallery.html images="among.jpeg" height="400" %}
 **Solution**  
 Completed full pipeline: design, mold creation, CAM, machining, process tuning, molding, and inspection.
 
@@ -95,4 +97,6 @@ Completed full pipeline: design, mold creation, CAM, machining, process tuning, 
 - Fully functional product with attachable accessories  
 - Smooth assembly and reliable fit  
 - Hands-on experience in CAD, CAM, CNC, molding, and QA  
-- Identified future improvements (runner optimization, more draft, ejector pins, standardized tooling)  
+- Identified future improvements (runner optimization, more draft, ejector pins, standardized tooling)
+
+{% include image-gallery.html images="among.jpeg" height="400" %}
