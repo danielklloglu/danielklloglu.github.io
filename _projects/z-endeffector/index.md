@@ -1,47 +1,39 @@
 ---
 layout: post
-title: Northwestern Formula Racing Projects
-description: 🏎️ Designed & manufactured rear hubs, pedal box, and suspension for a Formula SAE Electric Vehicle
+title: Robot End Affector Additive Manufacturing
+description: 🦾 Designed and iterated a lightweight PA12 3D-printed robotic end effector that securely grips and transports a fragile egg while minimizing material and maintaining structural integrity
 skills: 
-- SolidWorks
-- DFM
-- CNC Programming & Machining
+- Siemens NX
+- Design for Additive Manufacturing
+- SLS 3D Printing
 - Finite Elements Analysis
 - Topology Optimization
 main-image: /RobotEndEffectors.jpg
 ---
-## Rear Hub Design
-**Problem**  
-The previous rear hubs were heavy and costly while needing to withstand high loads from braking, cornering, and drivetrain torque. The design also had to mount brake rotors, constrain axial motion, and meet manufacturing and regulation requirements.
+## Robot End Effector – Lightweight PA12 Egg Gripper
 
-{% include image-gallery.html images="HUBS.png, hubfea1.png" height="300" %}
+**Problem**  
+Design a 3D-printed end effector capable of securely gripping and moving a fragile egg without breaking it, while minimizing weight to improve robot arm efficiency. The design also needed to withstand force/deflection testing, integrate with solenoids, and mount to the robot using a dovetail connector.
+
+{% include image-gallery.html images="endfea.png, testing.png" height="400" %}
 
 **Solution**  
-I fully redesigned the hubs, locking nuts, and hubcaps. I calculated critical stresses with bump factors, ran FEA to optimize geometry while maintaining a >1.5 safety factor, created detailed engineering drawings, and coordinated CNC machining and coating with external suppliers.
+We used **Polyamide 12 (PA12) via SLS 3D printing** and went through **two major design iterations** to optimize strength, weight, and functionality:
 
-{% include image-gallery.html images="HubsDrawing.png, newhubs.png, BrakeRotor4.jpg" height="250" %}
+- Identified bolts as the largest weight contributor and minimized bolt length.
+- Nested the moving effector inside the static effector to reduce material and allow smaller hardware.
+- Iteration 1: Thick, safe design that passed static tests but exceeded force limits on the moving part.
+- Iteration 2: Aggressively reduced material using FEA and topology-style optimization while keeping a safety factor.
+- Added trusses and edge blends to improve bending resistance.
+- Tuned the cusp shape to enhance egg stability and tolerance.
+- Accounted for PA12 variability in strength and deflection between FEA and real testing due to SLS build orientation and wall thickness differences.
 
-**Results**  
-- 6% weight reduction  
-- 17% cost savings
-- Factor of Safety > 1.5
-- Fully manufacturable and competition-ready  
-
----
-
-## Pedal Box Design
-**Problem**  
-Transitioning from ICE to EV required a new pedal box capable of reliable braking, precise throttle control, safety shutdown integration, and driver adjustability—while remaining lightweight and structurally sound.
-
-{% include image-gallery.html images="pedalfea.png, image.png" height="400" %}
-
-**Solution**  
-I designed and manufactured a full pedal box assembly (baseplate, gas/brake pedals, return springs, sensors, and brake over-travel killswitch). I ran FEA and topology optimization to remove unnecessary material while maintaining strength. I CNC-machined the pedals and baseplate, turned the throttle shaft on the lathe, and fully assembled and integrated the system into the car.
-
-{% include image-gallery.html images="Pedalbox.png" height="400" %}
+{% include image-gallery.html images="RobotEndEffectors.jpg, finalrig.png" height="400" %}
 
 **Results**  
-- Precise throttle response  
-- Reliable braking with automatic shutdown on failure  
-- Lightweight and competition-ready system  
+- Successfully moved the egg during final robot test
+- Lightweight, material-efficient final design 
+- Stable grip from nested alignment and cusp support  
+- Passed force/deflection tests with acceptable safety factor  
+- Demonstrated effective balance of strength, precision, and weight using PA12  
 <br>
