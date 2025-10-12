@@ -20,7 +20,7 @@ Solution: Designed and built AKBA’s first benchtop buffer-dilution system, cre
 Results: Prototype demonstrates the company's products in trade shows and is cheap and compact enough for lab-scale customers have an entry level product
 {% include image-gallery.html images="Unknown.png, asahi2.jpeg" height="400" %}
 
-### Product Standardization
+## Product Standardization
 Standardized a pressurized-vessel product line by collecting critical parameters from custom projects, cutting costs and improving lead times.
 {% include image-gallery.html images="dac.png, cursiv.png" height="400" %}
 Improved drawings and BOMs by correcting tolerances using GD&T, refreshing legacy callouts, and clarifying hardware specs to streamline procurement and assembly.
