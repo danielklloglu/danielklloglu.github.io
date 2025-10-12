@@ -12,10 +12,9 @@ skills:
 - GD&T
 main-image: /asahi1.jpeg
 ---
-
-## Glenview, IL | Jun 2025 – Aug 2025 
-### Benchtop Buffer Dilution System
+## Benchtop Buffer Dilution System
 Problem: The company wanted to enter the benchtop scale medical systems market to attract smaller customers to their ecosystem.
+<br>
 Solution: Designed and built AKBA’s first benchtop buffer-dilution system, creating a automated functional prototype for testing and client demos within a strict budget.
 <br>
 Results: Prototype demonstrates the company's products in trade shows and is cheap and compact enough for lab-scale customers have an entry level product
