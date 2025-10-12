@@ -5,6 +5,8 @@ description: 🧪 Built AKBA’s first benchtop dilution system and standardized
 skills: 
 - SolidWorks
 - P&ID
+- Standardization
+- Tolerancing
 - Qualification Testing
 - Prototyping
 - GD&T
