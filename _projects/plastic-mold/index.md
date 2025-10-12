@@ -31,10 +31,10 @@ Created CAD models of the body, hat, and mustache with uniform wall thickness, d
 
 **Problem**  
 Design molds that allow clean parting lines, easy ejection, balanced flow, and controlled shrinkage.
-{% include image-gallery.html images="mold1.png, runner.png, partingline.png" height="400" %}
+{% include image-gallery.html images="mold1.png" height="600" %}
 **Solution**  
 Selected optimal parting lines, applied draft angles and fillets, maintained uniform thickness, and designed balanced runner systems with cold slug wells. Ensured spacing from mold walls to prevent flash.
-
+{% include image-gallery.html images="runner.png, partingline.png" height="300" %}
 **Results**  
 - Smooth ejection  
 - Minimal post-processing  
