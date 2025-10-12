@@ -108,5 +108,3 @@ Completed full pipeline: design, mold creation, CAM, machining, process tuning, 
 - Smooth assembly and reliable fit  
 - Hands-on experience in CAD, CAM, CNC, molding, and QA  
 - Identified future improvements (runner optimization, more draft, ejector pins, standardized tooling)
-
-{% include image-gallery.html images="among.jpeg" height="400" %}
