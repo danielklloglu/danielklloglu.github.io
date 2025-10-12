@@ -11,12 +11,14 @@ skills:
 - Mass Manufacturing
 main-image: /actros.jpeg
 ---
+
 ## Task 1: Improving Maintenance Flap Ergonomics
 **Problem:** The semitruck’s maintenance flap required excessive operator reach, causing strain and inefficient servicing.  
 **Solution:** Used kinematic simulations in Siemens NX to evaluate multiple joint configurations and identify an optimized linkage geometry.  
 **Result:** Reduced operator reach distance by **25%**, improving ergonomics and maintenance accessibility.
 
 {% include image-gallery.html images="flap.png" height="400" %}
+
 ---
 
 ## Task 2: Lowering Manufacturing Cost of Flap Components
