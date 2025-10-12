@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Injection Mold Design & Manufacturing
-description: 👾 Designed a toy and a injection molding mass manufacturing process
+description: 👾 Designed and manufactured injection molds to produce a customizable plastic character with interchangeable accessories and reliable press-fit assembly
 skills: 
 - Siemens NX
 - CAM
 - CNC
+- DFA
 - Injection Molding
 - Mold Design
 - Mass Manufacturing
