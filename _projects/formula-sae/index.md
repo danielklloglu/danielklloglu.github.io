@@ -8,7 +8,7 @@ skills:
 - CNC Programming & Machining
 - Finite Elements Analysis
 - Topology Optimization
-main-image: /MeNFR24.png
+main-image: /nfr25_3.jpg
 ---
 ## Rear Hub Design
 **Problem**  
@@ -43,5 +43,8 @@ I designed and manufactured a full pedal box assembly (baseplate, gas/brake peda
 **Results**  
 - Precise throttle response  
 - Reliable braking with automatic shutdown on failure  
-- Lightweight and competition-ready system  
+- Lightweight and competition-ready system
+
+NFR24:
+{% include image-gallery.html images="MeNFR24.png" height="400" %}
 <br>
