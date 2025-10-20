@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cabin R&D Intern - Mercedes-Benz Türk A.Ş
-description: 🚛 Worked on maintanance flap opening mechanisms, sheet metal part optimization and ergonomics of a new-gen EV Semitruck
+description: 🚛 Worked on maintenance flap opening mechanisms, sheet metal part optimization, and ergonomics of a new-gen EV semitruck
 skills: 
 - Siemens NX
 - Kinetic Simulation
