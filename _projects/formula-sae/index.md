@@ -8,7 +8,7 @@ skills:
 - CNC Programming & Machining
 - Finite Elements Analysis
 - Topology Optimization
-main-image: /nfr25_3.jpg
+main-image: /nfr25_4copy.jpg
 ---
 ## Rear Hub Design
 **Problem**  
@@ -25,7 +25,10 @@ I fully redesigned the hubs, locking nuts, and hubcaps. I calculated critical st
 - 6% weight reduction  
 - 17% cost savings
 - Factor of Safety > 1.5
-- Fully manufacturable and competition-ready  
+- Fully manufacturable and competition-ready
+
+NFR25:
+{% include image-gallery.html images="nfr25_3.jpg" height="250" %}
 
 ---
 
