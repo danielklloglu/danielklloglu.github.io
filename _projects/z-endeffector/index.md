@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robot End Affector Additive Manufacturing
+title: Robot End Effector Additive Manufacturing
 description: 🦾 Designed and iterated a lightweight PA12 3D-printed robotic end effector that securely grips and transports a fragile egg while minimizing material and maintaining structural integrity
 skills: 
 - Siemens NX
