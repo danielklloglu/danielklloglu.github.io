@@ -4,8 +4,8 @@ title: Daniel Kıllıoğlu's Portfolio # This is what shows up in the tab of the
 
 # Hero Section
 name: Daniel Kıllıoğlu
-headline: 🚀 Mechanical Engineering Senior | Working on Electrification of the Future
-description: I’m commited to building a cleaner, smarter future by designing mechanical systems that bring together sustainability, electrification, and thoughtful engineering to have a positive impact on the world.
+headline: 🦾 Mechanical Engineer | Engineering Intelligent, Human-Centered Technologies for a Smarter Future
+description: I’m committed to building intelligent, sustainable systems that combine technical rigor with human-centered design, creating solutions that are thoughtful, accessible, and impactful.
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/proheadshot.JPG
 
@@ -61,7 +61,8 @@ skills:
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
 formspree-key:   https://formspree.io/f/meorrpeo
 
-# Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
+
+# Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
   text: "#1a1c20"
   border: "#ddd"
