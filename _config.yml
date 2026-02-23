@@ -4,7 +4,7 @@ title: Daniel Kıllıoğlu's Portfolio # This is what shows up in the tab of the
 
 # Hero Section
 name: Daniel Kıllıoğlu
-headline: 🦾 Mechanical Engineer | Engineering Intelligent, Human-Centered Technologies for a Smarter Future
+headline: 🦾 Mechanical Engineer | Engineering Intelligent, Human-Centered Technologies
 description: I’m committed to building intelligent, sustainable systems that combine technical rigor with human-centered design, creating solutions that are thoughtful, accessible, and impactful.
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/proheadshot.JPG
@@ -59,7 +59,7 @@ skills:
     - DFMEA / PFMEA
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/meorrpeo
+formspree-key: meorrpeo
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
